@@ -47,7 +47,7 @@ This API URL returns 10 jokes every time you call it:
 
 Make a call to the URL, loop through the results and display the `type`, `setup` and `punchline` properties for only 5 of the results. Don't display all 10.
 
-Example HTML from the repo:
+Example HTML from the repo you can create for each joke:
 
 ```html
 <div class="col-sm-6 col-md-4 col-lg-3">
